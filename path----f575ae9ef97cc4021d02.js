@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{109:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Personal Page",description:"Портфолио Front-end разработчика - Руслана Насырова"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{125:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Personal Page",description:"Портфолио Front-end разработчика - Руслана Насырова"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----f575ae9ef97cc4021d02.js.map
