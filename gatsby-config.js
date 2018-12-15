@@ -7,6 +7,14 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     {
+      resolve: `gatsby-plugin-yandex-metrika`,
+      options: {
+        trackingId: '48520004',
+        webvisor: true,
+        trackHash: true,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/posts`,
