@@ -4,7 +4,7 @@ module.exports = {
     author: "Nasyrov Ruslan",
     description: "Портфолио Front-end разработчика - Руслана Насырова"
   },
-  pathPrefix: '/',
+  pathPrefix: '/port/',
   plugins: [
     {
       resolve: `gatsby-plugin-yandex-metrika`,
