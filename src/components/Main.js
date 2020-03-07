@@ -49,21 +49,6 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a target="_blank" href="https://quandt.ru/">
-                Магазин нижнего белья
-              </a>
-            </li>
-            <li>
-              <a target="_blank" href="https://goququ.github.io/landing1/">
-                Верстка, лендинг
-              </a>
-            </li>
-            <li>
-              <a target="_blank" href="https://goququ.github.io/resp-land-1/">
-                Верстка, лендинг школы ниостранных языков
-              </a>
-            </li>
-            <li>
               <a target="_blank" href="https://goququ.github.io/last-fm-app/">
                 Простое музыкальное приложение на React
               </a>
