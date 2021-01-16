@@ -34,11 +34,25 @@ class Main extends React.Component {
           <h3>Некоторые из моих работ</h3>
           <ul>
             <li>
-              <a target="_blank" href="http://m.renault.saturn2.ru/">
-                Мобильный сайт автоцентра Челябинска
+              <a target="_blank" href="https://youtility.co.uk/">
+                Youtility platform
               </a>
             </li>
             <li>
+              <a target="_blank" href="https://lifetime.plus/">
+                Lifetime
+              </a>
+            </li>
+            <li>
+              <a
+                target="_blank"
+                href="https://business.taxi.yandex.ru/public/tariffs"
+              >
+                Страница тарифов Yandex Taxi corp
+              </a>
+            </li>
+
+            {/* <li>
               <a target="_blank" href="http://erdc.ru/">
                 Корпорация развития дальнего востока
               </a>
@@ -52,7 +66,7 @@ class Main extends React.Component {
               <a target="_blank" href="https://goququ.github.io/last-fm-app/">
                 Простое музыкальное приложение на React
               </a>
-            </li>
+            </li> */}
           </ul>
           {close}
         </article>
